@@ -1,6 +1,6 @@
-# Contribuir a Custom Sounds 🎵
+# Contribuir a Wavely 🎵
 
-Primero que todo, ¡Gracias por tomarte el tiempo de contribuir! Personas como tú hacen de **Custom Sounds** mejor.
+Primero que todo, ¡Gracias por tomarte el tiempo de contribuir! Personas como tú hacen de **Wavely** mejor.
 
 Debajo hay algunas pautas que te ayudarán a empezar.
 

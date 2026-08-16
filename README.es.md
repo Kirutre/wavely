@@ -1,13 +1,16 @@
-# 🎵 Custom Sounds
+![Banner](/images/big_banner.png "Banner")
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Firefox](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/es-ES/firefox/addon/custom-sounds/)
-[![Chromium](https://img.shields.io/badge/Chromium-Extension-4285F4.svg)](https://chrome.google.com/webstore)
+# 🎵 Wavely
+
+[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](LICENSE)
+[![Politica de Privacidad](https://img.shields.io/badge/Politica-Privacidad-green.svg)](PRIVACY_POLICY.es.md)
+[![Firefox](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/es-ES/firefox/addon/wavely/)
+[![Chromium](https://img.shields.io/badge/Chrome-Store-4285F4.svg)](https://chrome.google.com/webstore)
 
 ### Idiomas disponibles
 [![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![Idioma: Español](https://img.shields.io/badge/Idioma-Español-red.svg)](README.es.md)
 
-**Custom Sounds** es una extensión diseñada para personalizar la experiencia al navegar por internet añadiendo efectos de sonido a diferentes acciones dentro de tu navegador.
+**Wavely** es una extensión diseñada para personalizar la experiencia al navegar por internet añadiendo efectos de sonido a diferentes acciones dentro de tu navegador.
 
 ---
 
@@ -44,16 +47,16 @@
 ## ⬇️ Instalación
 
 ### Para Usuarios
-[**Ya disponible en AMO**](https://addons.mozilla.org/es-ES/firefox/addon/custom-sounds/) o, si prefieres, puedes instalarlo manualmente descargando el .zip de distribución correspondiente a tu navegador en el [Último Release](https://github.com/kirutre/custom_sounds/releases/latest) o siguiendo los pasos de desarrollo.
+[**Ya disponible en AMO**](https://addons.mozilla.org/es-ES/firefox/addon/wavely/) o, si prefieres, puedes instalarlo manualmente descargando el .zip de distribución correspondiente a tu navegador en el [Último Release](https://github.com/kirutre/wavely/releases/latest) o siguiendo los pasos de desarrollo.
 
 ### Guía para Desarrolladores (Instalación Manual)
 Si deseas modificar la extensión o contribuir al código, sigue estos pasos para configurar tu entorno local.
 
 1. **Clona este repositorio**
    ```bash
-   git clone https://github.com/Kirutre/custom_sounds.git
+   git clone https://github.com/Kirutre/wavely.git
 
-   cd custom_sounds
+   cd wavely
    ```
 
 2. **Gestión de Estilos (Tailwind CSS)**
@@ -106,12 +109,14 @@ npx @tailwindcss/cli -i ./options/input.css -o ./options/output.css --watch --mi
 
 Por favor lee las [**Pautas de contribución**](CONTRIBUTING.es.md) para empezar. Ya sea para corregir un bug o sugerir una nueva _feature_, ¡toda ayuda es bienvenida!.
 
-## 📝 Licencia
+## 📝 Licencia y Politica de Privacidad
 Distribuido bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más información.
+
+En ningún caso yo (el desarrollador) seré responsable de ninguna reclamación, daño u otra responsabildiad que surja del uso o mal uso de esta extensión.. Consulta el archivo [PRIVACY_POLICY](PRIVACY_POLICY.es.md) para más información.
 
 ## 📬 Contacto
 Kirutre - [GitHub](https://github.com/kirutre)
 
-Kirutre - contact.kirutre+firefox@gmail.com
+Kirutre - contact.kirutre+wavely@gmail.com
 
-Link del proyecto: https://github.com/Kirutre/custom_sounds
+Link del proyecto: https://github.com/Kirutre/wavely
