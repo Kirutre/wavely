@@ -2,13 +2,15 @@
 
 # 🎵 Wavely
 
-[![Licencia: MIT](https://img.shields.io/badge/Licencia-MIT-yellow.svg)](LICENSE)
-[![Politica de Privacidad](https://img.shields.io/badge/Politica-Privacidad-green.svg)](PRIVACY_POLICY.es.md)
-[![Firefox](https://img.shields.io/badge/Firefox-Add--on-orange.svg)](https://addons.mozilla.org/es-ES/firefox/addon/wavely/)
-[![Chromium](https://img.shields.io/badge/Chrome-Store-4285F4.svg)](https://chrome.google.com/webstore)
+[![Firefox Version](https://img.shields.io/amo/v/wavely?label=Firefox%20Add-ons&logo=firefoxbrowser&logoColor=white&color=FF7139)](https://addons.mozilla.org/es-ES/firefox/addon/wavely/)
+[![Chrome Version](https://img.shields.io/chrome-web-store/v/hbbhbkidoemiahjkcgfbijpcjpfikaec?label=Chrome%20Web%20Store&logo=googlechrome&logoColor=white&color=4285F4)](https://chromewebstore.google.com/detail/wavely-kirutre/hbbhbkidoemiahjkcgfbijpcjpfikaec)
+[![GitHub Release](https://img.shields.io/github/v/release/Kirutre/wavely?label=Última%20Versión&logo=github)](https://github.com/Kirutre/wavely/releases)
+[![License: MIT](https://img.shields.io/badge/Licencia-MIT-yellow?logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![Privacy Policy](https://img.shields.io/badge/Politica%20de-Privacidad-green?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgLTIwIDM0MCAzNDAiPgogIDxnIGZpbGw9Im5vbmUiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMTgiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCI+CiAgICA8bGluZSB4MT0iNDAiIHkxPSIxMzUiIHgyPSI0MC4wMSIgeTI9IjE2NSI+PC9saW5lPgogICAgPGxpbmUgeDE9Ijc1IiB5MT0iMTI1IiB4Mj0iNzUuMDEiIHkyPSIxNzUiPjwvbGluZT4KICAgIDxsaW5lIHgxPSIxMTAiIHkxPSIxMTAiIHgyPSIxMTAuMDEiIHkyPSIxOTAiPjwvbGluZT4KICAgIDxsaW5lIHgxPSIxNDUiIHkxPSIxMjUiIHgyPSIxNDUuMDEiIHkyPSIxNzUiPjwvbGluZT4KICAgIDxwYXRoIGQ9Ik0gMTQ1LDkwIEEgNjUsNjUgMCAwIDEgMTQ1LDIxMCI+PC9wYXRoPgogICAgPHBhdGggZD0iTSAxNzUsNzAgQSA5MCw5MCAwIDAgMSAxNzUsMjMwIj48L3BhdGg+CiAgICA8cGF0aCBkPSJNIDIwNSw1MCBBIDExNSwxMTUgMCAwIDEgMjA1LDI1MCI+PC9wYXRoPgogICAgPHBhdGggZD0iTSAyMzUsMzAgQSAxNDAsMTQwIDAgMCAxIDIzNSwyNzAiPjwvcGF0aD4KICA8L2c+Cjwvc3ZnPgo=)](PRIVACY_POLICY.es.md)
 
 ### Idiomas disponibles
-[![Language: English](https://img.shields.io/badge/Language-English-blue.svg)](README.md) [![Idioma: Español](https://img.shields.io/badge/Idioma-Español-red.svg)](README.es.md)
+[![Language: English](https://img.shields.io/badge/Language-English-blue?logo=googletranslate&logoColor=white)](README.md)
+[![Idioma: Español](https://img.shields.io/badge/Idioma-Español-red?logo=googletranslate&logoColor=white)](README.es.md)
 
 **Wavely** es una extensión diseñada para personalizar la experiencia al navegar por internet añadiendo efectos de sonido a diferentes acciones dentro de tu navegador.
 
@@ -47,7 +49,7 @@
 ## ⬇️ Instalación
 
 ### Para Usuarios
-[**Ya disponible en AMO**](https://addons.mozilla.org/es-ES/firefox/addon/wavely/) o, si prefieres, puedes instalarlo manualmente descargando el .zip de distribución correspondiente a tu navegador en el [Último Release](https://github.com/kirutre/wavely/releases/latest) o siguiendo los pasos de desarrollo.
+Ya disponible en [**Firefox Add-ons**](https://addons.mozilla.org/es-ES/firefox/addon/wavely/) y [**Chrome Web Store**](https://chromewebstore.google.com/detail/wavely-kirutre/hbbhbkidoemiahjkcgfbijpcjpfikaec) o, si prefieres, puedes instalarlo manualmente descargando el .zip de distribución correspondiente a tu navegador en el [Último Release](https://github.com/kirutre/wavely/releases/latest) o siguiendo los pasos de desarrollo.
 
 ### Guía para Desarrolladores (Instalación Manual)
 Si deseas modificar la extensión o contribuir al código, sigue estos pasos para configurar tu entorno local.
